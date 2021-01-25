@@ -1,0 +1,92 @@
+
+
+/*Bandeau avec logo et Navbarre verticale gauche*/
+.bandeau_logo {
+   
+    background-color:#12263f;
+
+
+}
+.logo{
+    padding:10px;
+    height:70px;
+    width:auto;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.titre_bandeau,.titre_bandeau2{
+    margin:0;
+    padding:0;
+    color:#44a6f1;
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+}
+.titre_bandeau2{
+    justify-content: flex-start;
+    color:#88c250;
+}
+
+.menu{
+    width:150px;
+    position: left;
+}
+/* FIN Bandeau avec logo et Navbarre verticale gauche*/
+
+/* BODY*/
+.margin0{
+    margin:0;
+}
+.pad_marg0{
+    margin:0;
+    padding:0;
+}
+.background_gris{
+     background-color:#6c757d;
+     height:635px;;
+}
+.background-bleu{
+    background-color:#12263f;
+    color:#88c250;
+}
+.backmed{
+    background-image: url("../assets/images/backmed.png");
+}
+#photo_pharmacie{
+    padding:0;
+    margin:0;
+    width: 100%;
+    height:630px;
+
+}
+.encadrement{
+    background-color:#88c250;
+
+}
+.titreh1{
+    padding:25px;
+    color:#12263f;
+}
+.titreh2{
+    text-align: center;
+    font-size:25px;
+}
+.paligne{
+    padding:50px 70px 0 70px;
+    text-align:justify;
+    color:white;
+}
+
+/*Page Ajout*/
+
+.gho-dark {
+    background-color: #151515;
+    color: #fff;
+    padding-top: 30px;
+    width: 800px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+}
+
+/*BODY*/
